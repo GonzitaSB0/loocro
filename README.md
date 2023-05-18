@@ -1,6 +1,7 @@
 <html lang="en" dir="ltr">
+    <head>
     <meta charset="utf-8"
-
+      <head>
   <body>
     <br>
     <h1 style="color:#87CEEB">LOCRO CRIOLLO</h1>
