@@ -1,6 +1,5 @@
 <html lang="en" dir="ltr">
-    <meta charset="utf-8">
-    <title>Locro más criollo no hay</title>
+    <meta charset="utf-8"
 
   <body>
     <br>
